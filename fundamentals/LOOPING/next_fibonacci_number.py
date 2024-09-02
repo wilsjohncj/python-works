@@ -1,0 +1,1 @@
+# read a number and print next fibonacci number
